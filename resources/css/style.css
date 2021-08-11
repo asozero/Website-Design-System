@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 900;
+    margin: 20px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.outline {
+    border: 3px solid black;
+    margin: 30px;
+}
+
+.color-content {
+    display: inline-block;
+    text-align:center;
+}
+
+.fonts {
+    display: block;
+    
+}
+
+.square {
+    display: block;
+    padding: 30px 100px;
+    margin: 20px 0px;
+    border: 1px solid black;
+    background: red;
+}
